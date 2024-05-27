@@ -1,0 +1,12 @@
+C:\Users\MILA\Desktop\Buses\Buses\bin\Debug\Buses.exe.config
+C:\Users\MILA\Desktop\Buses\Buses\bin\Debug\Buses.exe
+C:\Users\MILA\Desktop\Buses\Buses\bin\Debug\Buses.pdb
+C:\Users\MILA\Desktop\Buses\Buses\obj\Debug\Buses.csproj.AssemblyReference.cache
+C:\Users\MILA\Desktop\Buses\Buses\obj\Debug\Buses.BusForm.resources
+C:\Users\MILA\Desktop\Buses\Buses\obj\Debug\Buses.Form1.resources
+C:\Users\MILA\Desktop\Buses\Buses\obj\Debug\Buses.LineForm.resources
+C:\Users\MILA\Desktop\Buses\Buses\obj\Debug\Buses.Properties.Resources.resources
+C:\Users\MILA\Desktop\Buses\Buses\obj\Debug\Buses.csproj.GenerateResource.cache
+C:\Users\MILA\Desktop\Buses\Buses\obj\Debug\Buses.csproj.CoreCompileInputs.cache
+C:\Users\MILA\Desktop\Buses\Buses\obj\Debug\Buses.exe
+C:\Users\MILA\Desktop\Buses\Buses\obj\Debug\Buses.pdb

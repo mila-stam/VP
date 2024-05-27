@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MILA\\Desktop\\Buses\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BEBF88AA-4007-4423-92C1-36F430A4A452}|Buses\\Buses.csproj|c:\\users\\mila\\desktop\\buses\\buses\\busform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEBF88AA-4007-4423-92C1-36F430A4A452}|Buses\\Buses.csproj|solutionrelative:buses\\busform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEBF88AA-4007-4423-92C1-36F430A4A452}|Buses\\Buses.csproj|c:\\users\\mila\\desktop\\buses\\buses\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEBF88AA-4007-4423-92C1-36F430A4A452}|Buses\\Buses.csproj|solutionrelative:buses\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEBF88AA-4007-4423-92C1-36F430A4A452}|Buses\\Buses.csproj|c:\\users\\mila\\desktop\\buses\\buses\\lineform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BEBF88AA-4007-4423-92C1-36F430A4A452}|Buses\\Buses.csproj|solutionrelative:buses\\lineform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEBF88AA-4007-4423-92C1-36F430A4A452}|Buses\\Buses.csproj|c:\\users\\mila\\desktop\\buses\\buses\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BEBF88AA-4007-4423-92C1-36F430A4A452}|Buses\\Buses.csproj|solutionrelative:buses\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEBF88AA-4007-4423-92C1-36F430A4A452}|Buses\\Buses.csproj|c:\\users\\mila\\desktop\\buses\\buses\\bus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEBF88AA-4007-4423-92C1-36F430A4A452}|Buses\\Buses.csproj|solutionrelative:buses\\bus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEBF88AA-4007-4423-92C1-36F430A4A452}|Buses\\Buses.csproj|c:\\users\\mila\\desktop\\buses\\buses\\line.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEBF88AA-4007-4423-92C1-36F430A4A452}|Buses\\Buses.csproj|solutionrelative:buses\\line.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEBF88AA-4007-4423-92C1-36F430A4A452}|Buses\\Buses.csproj|c:\\users\\mila\\desktop\\buses\\buses\\lineform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEBF88AA-4007-4423-92C1-36F430A4A452}|Buses\\Buses.csproj|solutionrelative:buses\\lineform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEBF88AA-4007-4423-92C1-36F430A4A452}|Buses\\Buses.csproj|c:\\users\\mila\\desktop\\buses\\buses\\busform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BEBF88AA-4007-4423-92C1-36F430A4A452}|Buses\\Buses.csproj|solutionrelative:buses\\busform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 237,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\MILA\\Desktop\\Buses\\Buses\\Form1.cs",
+              "RelativeDocumentMoniker": "Buses\\Form1.cs",
+              "ToolTip": "C:\\Users\\MILA\\Desktop\\Buses\\Buses\\Form1.cs",
+              "RelativeToolTip": "Buses\\Form1.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAuwGAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T10:35:30.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LineForm.cs",
+              "DocumentMoniker": "C:\\Users\\MILA\\Desktop\\Buses\\Buses\\LineForm.cs",
+              "RelativeDocumentMoniker": "Buses\\LineForm.cs",
+              "ToolTip": "C:\\Users\\MILA\\Desktop\\Buses\\Buses\\LineForm.cs",
+              "RelativeToolTip": "Buses\\LineForm.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAuwCYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T10:23:04.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BusForm.cs",
+              "DocumentMoniker": "C:\\Users\\MILA\\Desktop\\Buses\\Buses\\BusForm.cs",
+              "RelativeDocumentMoniker": "Buses\\BusForm.cs",
+              "ToolTip": "C:\\Users\\MILA\\Desktop\\Buses\\Buses\\BusForm.cs",
+              "RelativeToolTip": "Buses\\BusForm.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAA/wBcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T10:37:42.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Line.cs",
+              "DocumentMoniker": "C:\\Users\\MILA\\Desktop\\Buses\\Buses\\Line.cs",
+              "RelativeDocumentMoniker": "Buses\\Line.cs",
+              "ToolTip": "C:\\Users\\MILA\\Desktop\\Buses\\Buses\\Line.cs",
+              "RelativeToolTip": "Buses\\Line.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAqwAsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T10:29:53.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Bus.cs",
+              "DocumentMoniker": "C:\\Users\\MILA\\Desktop\\Buses\\Buses\\Bus.cs",
+              "RelativeDocumentMoniker": "Buses\\Bus.cs",
+              "ToolTip": "C:\\Users\\MILA\\Desktop\\Buses\\Buses\\Bus.cs",
+              "RelativeToolTip": "Buses\\Bus.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAgwA0AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T10:28:04.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LineForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MILA\\Desktop\\Buses\\Buses\\LineForm.cs",
+              "RelativeDocumentMoniker": "Buses\\LineForm.cs",
+              "ToolTip": "C:\\Users\\MILA\\Desktop\\Buses\\Buses\\LineForm.cs [Design]",
+              "RelativeToolTip": "Buses\\LineForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T10:22:20.767Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BusForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MILA\\Desktop\\Buses\\Buses\\BusForm.cs",
+              "RelativeDocumentMoniker": "Buses\\BusForm.cs",
+              "ToolTip": "C:\\Users\\MILA\\Desktop\\Buses\\Buses\\BusForm.cs [Design]",
+              "RelativeToolTip": "Buses\\BusForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T10:16:56.953Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MILA\\Desktop\\Buses\\Buses\\Form1.cs",
+              "RelativeDocumentMoniker": "Buses\\Form1.cs",
+              "ToolTip": "C:\\Users\\MILA\\Desktop\\Buses\\Buses\\Form1.cs [Design]",
+              "RelativeToolTip": "Buses\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T10:03:45.318Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

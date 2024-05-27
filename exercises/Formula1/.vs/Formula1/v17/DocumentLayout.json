@@ -1,0 +1,124 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MILA\\Desktop\\Formula1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC176685-42B0-4788-9708-3D86E5E2DD4B}|Formula1\\Formula1.csproj|c:\\users\\mila\\desktop\\formula1\\formula1\\driverform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC176685-42B0-4788-9708-3D86E5E2DD4B}|Formula1\\Formula1.csproj|solutionrelative:formula1\\driverform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC176685-42B0-4788-9708-3D86E5E2DD4B}|Formula1\\Formula1.csproj|c:\\users\\mila\\desktop\\formula1\\formula1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC176685-42B0-4788-9708-3D86E5E2DD4B}|Formula1\\Formula1.csproj|solutionrelative:formula1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC176685-42B0-4788-9708-3D86E5E2DD4B}|Formula1\\Formula1.csproj|c:\\users\\mila\\desktop\\formula1\\formula1\\driverform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EC176685-42B0-4788-9708-3D86E5E2DD4B}|Formula1\\Formula1.csproj|solutionrelative:formula1\\driverform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC176685-42B0-4788-9708-3D86E5E2DD4B}|Formula1\\Formula1.csproj|c:\\users\\mila\\desktop\\formula1\\formula1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EC176685-42B0-4788-9708-3D86E5E2DD4B}|Formula1\\Formula1.csproj|solutionrelative:formula1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC176685-42B0-4788-9708-3D86E5E2DD4B}|Formula1\\Formula1.csproj|c:\\users\\mila\\desktop\\formula1\\formula1\\lap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC176685-42B0-4788-9708-3D86E5E2DD4B}|Formula1\\Formula1.csproj|solutionrelative:formula1\\lap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC176685-42B0-4788-9708-3D86E5E2DD4B}|Formula1\\Formula1.csproj|c:\\users\\mila\\desktop\\formula1\\formula1\\driver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC176685-42B0-4788-9708-3D86E5E2DD4B}|Formula1\\Formula1.csproj|solutionrelative:formula1\\driver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 237,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DriverForm.cs",
+              "DocumentMoniker": "C:\\Users\\MILA\\Desktop\\Formula1\\Formula1\\DriverForm.cs",
+              "RelativeDocumentMoniker": "Formula1\\DriverForm.cs",
+              "ToolTip": "C:\\Users\\MILA\\Desktop\\Formula1\\Formula1\\DriverForm.cs",
+              "RelativeToolTip": "Formula1\\DriverForm.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAkwA8AAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T21:48:20.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\MILA\\Desktop\\Formula1\\Formula1\\Form1.cs",
+              "RelativeDocumentMoniker": "Formula1\\Form1.cs",
+              "ToolTip": "C:\\Users\\MILA\\Desktop\\Formula1\\Formula1\\Form1.cs",
+              "RelativeToolTip": "Formula1\\Form1.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAUwEEAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T21:46:52.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Lap.cs",
+              "DocumentMoniker": "C:\\Users\\MILA\\Desktop\\Formula1\\Formula1\\Lap.cs",
+              "RelativeDocumentMoniker": "Formula1\\Lap.cs",
+              "ToolTip": "C:\\Users\\MILA\\Desktop\\Formula1\\Formula1\\Lap.cs",
+              "RelativeToolTip": "Formula1\\Lap.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAIwBUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T21:37:33.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Driver.cs",
+              "DocumentMoniker": "C:\\Users\\MILA\\Desktop\\Formula1\\Formula1\\Driver.cs",
+              "RelativeDocumentMoniker": "Formula1\\Driver.cs",
+              "ToolTip": "C:\\Users\\MILA\\Desktop\\Formula1\\Formula1\\Driver.cs",
+              "RelativeToolTip": "Formula1\\Driver.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T21:36:33.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DriverForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MILA\\Desktop\\Formula1\\Formula1\\DriverForm.cs",
+              "RelativeDocumentMoniker": "Formula1\\DriverForm.cs",
+              "ToolTip": "C:\\Users\\MILA\\Desktop\\Formula1\\Formula1\\DriverForm.cs [Design]",
+              "RelativeToolTip": "Formula1\\DriverForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T21:33:10.15Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MILA\\Desktop\\Formula1\\Formula1\\Form1.cs",
+              "RelativeDocumentMoniker": "Formula1\\Form1.cs",
+              "ToolTip": "C:\\Users\\MILA\\Desktop\\Formula1\\Formula1\\Form1.cs [Design]",
+              "RelativeToolTip": "Formula1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T21:11:46.651Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

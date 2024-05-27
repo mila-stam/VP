@@ -1,0 +1,11 @@
+C:\Users\MILA\Desktop\Formula1\Formula1\bin\Debug\Formula1.exe.config
+C:\Users\MILA\Desktop\Formula1\Formula1\bin\Debug\Formula1.exe
+C:\Users\MILA\Desktop\Formula1\Formula1\bin\Debug\Formula1.pdb
+C:\Users\MILA\Desktop\Formula1\Formula1\obj\Debug\Formula1.csproj.AssemblyReference.cache
+C:\Users\MILA\Desktop\Formula1\Formula1\obj\Debug\Formula1.DriverForm.resources
+C:\Users\MILA\Desktop\Formula1\Formula1\obj\Debug\Formula1.Form1.resources
+C:\Users\MILA\Desktop\Formula1\Formula1\obj\Debug\Formula1.Properties.Resources.resources
+C:\Users\MILA\Desktop\Formula1\Formula1\obj\Debug\Formula1.csproj.GenerateResource.cache
+C:\Users\MILA\Desktop\Formula1\Formula1\obj\Debug\Formula1.csproj.CoreCompileInputs.cache
+C:\Users\MILA\Desktop\Formula1\Formula1\obj\Debug\Formula1.exe
+C:\Users\MILA\Desktop\Formula1\Formula1\obj\Debug\Formula1.pdb

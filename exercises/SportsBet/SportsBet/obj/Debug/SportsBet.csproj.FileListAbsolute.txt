@@ -1,0 +1,11 @@
+C:\Users\MILA\Desktop\SportsBet\SportsBet\bin\Debug\SportsBet.exe.config
+C:\Users\MILA\Desktop\SportsBet\SportsBet\bin\Debug\SportsBet.exe
+C:\Users\MILA\Desktop\SportsBet\SportsBet\bin\Debug\SportsBet.pdb
+C:\Users\MILA\Desktop\SportsBet\SportsBet\obj\Debug\SportsBet.csproj.AssemblyReference.cache
+C:\Users\MILA\Desktop\SportsBet\SportsBet\obj\Debug\SportsBet.Form1.resources
+C:\Users\MILA\Desktop\SportsBet\SportsBet\obj\Debug\SportsBet.Form2.resources
+C:\Users\MILA\Desktop\SportsBet\SportsBet\obj\Debug\SportsBet.Properties.Resources.resources
+C:\Users\MILA\Desktop\SportsBet\SportsBet\obj\Debug\SportsBet.csproj.GenerateResource.cache
+C:\Users\MILA\Desktop\SportsBet\SportsBet\obj\Debug\SportsBet.csproj.CoreCompileInputs.cache
+C:\Users\MILA\Desktop\SportsBet\SportsBet\obj\Debug\SportsBet.exe
+C:\Users\MILA\Desktop\SportsBet\SportsBet\obj\Debug\SportsBet.pdb

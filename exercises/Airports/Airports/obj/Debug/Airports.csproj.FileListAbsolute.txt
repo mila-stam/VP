@@ -1,0 +1,12 @@
+C:\Users\MILA\Desktop\Airports\Airports\bin\Debug\Airports.exe.config
+C:\Users\MILA\Desktop\Airports\Airports\bin\Debug\Airports.exe
+C:\Users\MILA\Desktop\Airports\Airports\bin\Debug\Airports.pdb
+C:\Users\MILA\Desktop\Airports\Airports\obj\Debug\Airports.csproj.AssemblyReference.cache
+C:\Users\MILA\Desktop\Airports\Airports\obj\Debug\Airports.AirportForm.resources
+C:\Users\MILA\Desktop\Airports\Airports\obj\Debug\Airports.DestinationForm.resources
+C:\Users\MILA\Desktop\Airports\Airports\obj\Debug\Airports.Form1.resources
+C:\Users\MILA\Desktop\Airports\Airports\obj\Debug\Airports.Properties.Resources.resources
+C:\Users\MILA\Desktop\Airports\Airports\obj\Debug\Airports.csproj.GenerateResource.cache
+C:\Users\MILA\Desktop\Airports\Airports\obj\Debug\Airports.csproj.CoreCompileInputs.cache
+C:\Users\MILA\Desktop\Airports\Airports\obj\Debug\Airports.exe
+C:\Users\MILA\Desktop\Airports\Airports\obj\Debug\Airports.pdb
