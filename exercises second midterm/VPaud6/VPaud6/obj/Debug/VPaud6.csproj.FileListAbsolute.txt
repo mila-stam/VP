@@ -1,0 +1,10 @@
+C:\Users\MILA\Desktop\VPaud6\VPaud6\bin\Debug\VPaud6.exe.config
+C:\Users\MILA\Desktop\VPaud6\VPaud6\bin\Debug\VPaud6.exe
+C:\Users\MILA\Desktop\VPaud6\VPaud6\bin\Debug\VPaud6.pdb
+C:\Users\MILA\Desktop\VPaud6\VPaud6\obj\Debug\VPaud6.csproj.AssemblyReference.cache
+C:\Users\MILA\Desktop\VPaud6\VPaud6\obj\Debug\VPaud6.Form1.resources
+C:\Users\MILA\Desktop\VPaud6\VPaud6\obj\Debug\VPaud6.Properties.Resources.resources
+C:\Users\MILA\Desktop\VPaud6\VPaud6\obj\Debug\VPaud6.csproj.GenerateResource.cache
+C:\Users\MILA\Desktop\VPaud6\VPaud6\obj\Debug\VPaud6.csproj.CoreCompileInputs.cache
+C:\Users\MILA\Desktop\VPaud6\VPaud6\obj\Debug\VPaud6.exe
+C:\Users\MILA\Desktop\VPaud6\VPaud6\obj\Debug\VPaud6.pdb
