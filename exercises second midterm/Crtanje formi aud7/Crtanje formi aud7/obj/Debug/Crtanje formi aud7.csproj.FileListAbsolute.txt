@@ -1,0 +1,10 @@
+C:\Users\MILA\Desktop\VP\exercises second midterm\Crtanje formi aud7\Crtanje formi aud7\bin\Debug\Crtanje formi aud7.exe.config
+C:\Users\MILA\Desktop\VP\exercises second midterm\Crtanje formi aud7\Crtanje formi aud7\bin\Debug\Crtanje formi aud7.exe
+C:\Users\MILA\Desktop\VP\exercises second midterm\Crtanje formi aud7\Crtanje formi aud7\bin\Debug\Crtanje formi aud7.pdb
+C:\Users\MILA\Desktop\VP\exercises second midterm\Crtanje formi aud7\Crtanje formi aud7\obj\Debug\Crtanje formi aud7.csproj.AssemblyReference.cache
+C:\Users\MILA\Desktop\VP\exercises second midterm\Crtanje formi aud7\Crtanje formi aud7\obj\Debug\Crtanje_formi_aud7.Form1.resources
+C:\Users\MILA\Desktop\VP\exercises second midterm\Crtanje formi aud7\Crtanje formi aud7\obj\Debug\Crtanje_formi_aud7.Properties.Resources.resources
+C:\Users\MILA\Desktop\VP\exercises second midterm\Crtanje formi aud7\Crtanje formi aud7\obj\Debug\Crtanje formi aud7.csproj.GenerateResource.cache
+C:\Users\MILA\Desktop\VP\exercises second midterm\Crtanje formi aud7\Crtanje formi aud7\obj\Debug\Crtanje formi aud7.csproj.CoreCompileInputs.cache
+C:\Users\MILA\Desktop\VP\exercises second midterm\Crtanje formi aud7\Crtanje formi aud7\obj\Debug\Crtanje formi aud7.exe
+C:\Users\MILA\Desktop\VP\exercises second midterm\Crtanje formi aud7\Crtanje formi aud7\obj\Debug\Crtanje formi aud7.pdb
