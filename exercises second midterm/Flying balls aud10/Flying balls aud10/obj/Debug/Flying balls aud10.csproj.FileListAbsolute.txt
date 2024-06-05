@@ -1,0 +1,10 @@
+C:\Users\MILA\Desktop\VP\exercises second midterm\Flying balls aud10\Flying balls aud10\bin\Debug\Flying balls aud10.exe.config
+C:\Users\MILA\Desktop\VP\exercises second midterm\Flying balls aud10\Flying balls aud10\bin\Debug\Flying balls aud10.exe
+C:\Users\MILA\Desktop\VP\exercises second midterm\Flying balls aud10\Flying balls aud10\bin\Debug\Flying balls aud10.pdb
+C:\Users\MILA\Desktop\VP\exercises second midterm\Flying balls aud10\Flying balls aud10\obj\Debug\Flying balls aud10.csproj.AssemblyReference.cache
+C:\Users\MILA\Desktop\VP\exercises second midterm\Flying balls aud10\Flying balls aud10\obj\Debug\Flying_balls_aud10.Form1.resources
+C:\Users\MILA\Desktop\VP\exercises second midterm\Flying balls aud10\Flying balls aud10\obj\Debug\Flying_balls_aud10.Properties.Resources.resources
+C:\Users\MILA\Desktop\VP\exercises second midterm\Flying balls aud10\Flying balls aud10\obj\Debug\Flying balls aud10.csproj.GenerateResource.cache
+C:\Users\MILA\Desktop\VP\exercises second midterm\Flying balls aud10\Flying balls aud10\obj\Debug\Flying balls aud10.csproj.CoreCompileInputs.cache
+C:\Users\MILA\Desktop\VP\exercises second midterm\Flying balls aud10\Flying balls aud10\obj\Debug\Flying balls aud10.exe
+C:\Users\MILA\Desktop\VP\exercises second midterm\Flying balls aud10\Flying balls aud10\obj\Debug\Flying balls aud10.pdb

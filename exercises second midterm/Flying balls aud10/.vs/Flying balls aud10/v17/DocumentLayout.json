@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MILA\\Desktop\\VP\\exercises second midterm\\Flying balls aud10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{91F689E3-0B35-4083-80C3-AEFAE5D23C21}|Flying balls aud10\\Flying balls aud10.csproj|c:\\users\\mila\\desktop\\vp\\exercises second midterm\\flying balls aud10\\flying balls aud10\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91F689E3-0B35-4083-80C3-AEFAE5D23C21}|Flying balls aud10\\Flying balls aud10.csproj|solutionrelative:flying balls aud10\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91F689E3-0B35-4083-80C3-AEFAE5D23C21}|Flying balls aud10\\Flying balls aud10.csproj|c:\\users\\mila\\desktop\\vp\\exercises second midterm\\flying balls aud10\\flying balls aud10\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{91F689E3-0B35-4083-80C3-AEFAE5D23C21}|Flying balls aud10\\Flying balls aud10.csproj|solutionrelative:flying balls aud10\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91F689E3-0B35-4083-80C3-AEFAE5D23C21}|Flying balls aud10\\Flying balls aud10.csproj|c:\\users\\mila\\desktop\\vp\\exercises second midterm\\flying balls aud10\\flying balls aud10\\ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91F689E3-0B35-4083-80C3-AEFAE5D23C21}|Flying balls aud10\\Flying balls aud10.csproj|solutionrelative:flying balls aud10\\ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91F689E3-0B35-4083-80C3-AEFAE5D23C21}|Flying balls aud10\\Flying balls aud10.csproj|c:\\users\\mila\\desktop\\vp\\exercises second midterm\\flying balls aud10\\flying balls aud10\\scene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91F689E3-0B35-4083-80C3-AEFAE5D23C21}|Flying balls aud10\\Flying balls aud10.csproj|solutionrelative:flying balls aud10\\scene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91F689E3-0B35-4083-80C3-AEFAE5D23C21}|Flying balls aud10\\Flying balls aud10.csproj|c:\\users\\mila\\desktop\\vp\\exercises second midterm\\flying balls aud10\\flying balls aud10\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91F689E3-0B35-4083-80C3-AEFAE5D23C21}|Flying balls aud10\\Flying balls aud10.csproj|solutionrelative:flying balls aud10\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 237,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\MILA\\Desktop\\VP\\exercises second midterm\\Flying balls aud10\\Flying balls aud10\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Flying balls aud10\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\MILA\\Desktop\\VP\\exercises second midterm\\Flying balls aud10\\Flying balls aud10\\Form1.Designer.cs",
+              "RelativeToolTip": "Flying balls aud10\\Form1.Designer.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAhwGsBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T18:58:39.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\MILA\\Desktop\\VP\\exercises second midterm\\Flying balls aud10\\Flying balls aud10\\Form1.cs",
+              "RelativeDocumentMoniker": "Flying balls aud10\\Form1.cs",
+              "ToolTip": "C:\\Users\\MILA\\Desktop\\VP\\exercises second midterm\\Flying balls aud10\\Flying balls aud10\\Form1.cs",
+              "RelativeToolTip": "Flying balls aud10\\Form1.cs",
+              "ViewState": "AQIAAGcAAAAAAAAAAAAqwGoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T18:47:28.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Scene.cs",
+              "DocumentMoniker": "C:\\Users\\MILA\\Desktop\\VP\\exercises second midterm\\Flying balls aud10\\Flying balls aud10\\Scene.cs",
+              "RelativeDocumentMoniker": "Flying balls aud10\\Scene.cs",
+              "ToolTip": "C:\\Users\\MILA\\Desktop\\VP\\exercises second midterm\\Flying balls aud10\\Flying balls aud10\\Scene.cs",
+              "RelativeToolTip": "Flying balls aud10\\Scene.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T18:30:27.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ball.cs",
+              "DocumentMoniker": "C:\\Users\\MILA\\Desktop\\VP\\exercises second midterm\\Flying balls aud10\\Flying balls aud10\\Ball.cs",
+              "RelativeDocumentMoniker": "Flying balls aud10\\Ball.cs",
+              "ToolTip": "C:\\Users\\MILA\\Desktop\\VP\\exercises second midterm\\Flying balls aud10\\Flying balls aud10\\Ball.cs",
+              "RelativeToolTip": "Flying balls aud10\\Ball.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T16:10:11.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MILA\\Desktop\\VP\\exercises second midterm\\Flying balls aud10\\Flying balls aud10\\Form1.cs",
+              "RelativeDocumentMoniker": "Flying balls aud10\\Form1.cs",
+              "ToolTip": "C:\\Users\\MILA\\Desktop\\VP\\exercises second midterm\\Flying balls aud10\\Flying balls aud10\\Form1.cs [Design]",
+              "RelativeToolTip": "Flying balls aud10\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T15:59:08.368Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
