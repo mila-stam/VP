@@ -1,0 +1,10 @@
+C:\Users\MILA\Desktop\VP\exercises second midterm\Crtanje poligoni aud9\Crtanje poligoni aud9\obj\Debug\Crtanje poligoni aud9.csproj.AssemblyReference.cache
+C:\Users\MILA\Desktop\VP\exercises second midterm\Crtanje poligoni aud9\Crtanje poligoni aud9\obj\Debug\Crtanje_poligoni_aud9.Form1.resources
+C:\Users\MILA\Desktop\VP\exercises second midterm\Crtanje poligoni aud9\Crtanje poligoni aud9\obj\Debug\Crtanje_poligoni_aud9.Properties.Resources.resources
+C:\Users\MILA\Desktop\VP\exercises second midterm\Crtanje poligoni aud9\Crtanje poligoni aud9\obj\Debug\Crtanje poligoni aud9.csproj.GenerateResource.cache
+C:\Users\MILA\Desktop\VP\exercises second midterm\Crtanje poligoni aud9\Crtanje poligoni aud9\obj\Debug\Crtanje poligoni aud9.csproj.CoreCompileInputs.cache
+C:\Users\MILA\Desktop\VP\exercises second midterm\Crtanje poligoni aud9\Crtanje poligoni aud9\bin\Debug\Crtanje poligoni aud9.exe.config
+C:\Users\MILA\Desktop\VP\exercises second midterm\Crtanje poligoni aud9\Crtanje poligoni aud9\bin\Debug\Crtanje poligoni aud9.exe
+C:\Users\MILA\Desktop\VP\exercises second midterm\Crtanje poligoni aud9\Crtanje poligoni aud9\bin\Debug\Crtanje poligoni aud9.pdb
+C:\Users\MILA\Desktop\VP\exercises second midterm\Crtanje poligoni aud9\Crtanje poligoni aud9\obj\Debug\Crtanje poligoni aud9.exe
+C:\Users\MILA\Desktop\VP\exercises second midterm\Crtanje poligoni aud9\Crtanje poligoni aud9\obj\Debug\Crtanje poligoni aud9.pdb

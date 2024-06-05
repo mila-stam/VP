@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MILA\\Desktop\\VP\\exercises second midterm\\Crtanje poligoni aud9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4476A0C8-0D49-4868-8032-EA05922E964B}|Crtanje poligoni aud9\\Crtanje poligoni aud9.csproj|C:\\Users\\MILA\\Desktop\\VP\\exercises second midterm\\Crtanje poligoni aud9\\crtanje poligoni aud9\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4476A0C8-0D49-4868-8032-EA05922E964B}|Crtanje poligoni aud9\\Crtanje poligoni aud9.csproj|solutionrelative:crtanje poligoni aud9\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4476A0C8-0D49-4868-8032-EA05922E964B}|Crtanje poligoni aud9\\Crtanje poligoni aud9.csproj|C:\\Users\\MILA\\Desktop\\VP\\exercises second midterm\\Crtanje poligoni aud9\\crtanje poligoni aud9\\scene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4476A0C8-0D49-4868-8032-EA05922E964B}|Crtanje poligoni aud9\\Crtanje poligoni aud9.csproj|solutionrelative:crtanje poligoni aud9\\scene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4476A0C8-0D49-4868-8032-EA05922E964B}|Crtanje poligoni aud9\\Crtanje poligoni aud9.csproj|c:\\users\\mila\\desktop\\vp\\exercises second midterm\\crtanje poligoni aud9\\crtanje poligoni aud9\\poligon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4476A0C8-0D49-4868-8032-EA05922E964B}|Crtanje poligoni aud9\\Crtanje poligoni aud9.csproj|solutionrelative:crtanje poligoni aud9\\poligon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4476A0C8-0D49-4868-8032-EA05922E964B}|Crtanje poligoni aud9\\Crtanje poligoni aud9.csproj|C:\\Users\\MILA\\Desktop\\VP\\exercises second midterm\\Crtanje poligoni aud9\\crtanje poligoni aud9\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4476A0C8-0D49-4868-8032-EA05922E964B}|Crtanje poligoni aud9\\Crtanje poligoni aud9.csproj|solutionrelative:crtanje poligoni aud9\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 237,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Scene.cs",
+              "DocumentMoniker": "C:\\Users\\MILA\\Desktop\\VP\\exercises second midterm\\Crtanje poligoni aud9\\Crtanje poligoni aud9\\Scene.cs",
+              "RelativeDocumentMoniker": "Crtanje poligoni aud9\\Scene.cs",
+              "ToolTip": "C:\\Users\\MILA\\Desktop\\VP\\exercises second midterm\\Crtanje poligoni aud9\\Crtanje poligoni aud9\\Scene.cs",
+              "RelativeToolTip": "Crtanje poligoni aud9\\Scene.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T15:19:20.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\MILA\\Desktop\\VP\\exercises second midterm\\Crtanje poligoni aud9\\Crtanje poligoni aud9\\Form1.cs",
+              "RelativeDocumentMoniker": "Crtanje poligoni aud9\\Form1.cs",
+              "ToolTip": "C:\\Users\\MILA\\Desktop\\VP\\exercises second midterm\\Crtanje poligoni aud9\\Crtanje poligoni aud9\\Form1.cs",
+              "RelativeToolTip": "Crtanje poligoni aud9\\Form1.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAawFUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T14:43:19.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Poligon.cs",
+              "DocumentMoniker": "C:\\Users\\MILA\\Desktop\\VP\\exercises second midterm\\Crtanje poligoni aud9\\Crtanje poligoni aud9\\Poligon.cs",
+              "RelativeDocumentMoniker": "Crtanje poligoni aud9\\Poligon.cs",
+              "ToolTip": "C:\\Users\\MILA\\Desktop\\VP\\exercises second midterm\\Crtanje poligoni aud9\\Crtanje poligoni aud9\\Poligon.cs",
+              "RelativeToolTip": "Crtanje poligoni aud9\\Poligon.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAswEYAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T14:23:02.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MILA\\Desktop\\VP\\exercises second midterm\\Crtanje poligoni aud9\\Crtanje poligoni aud9\\Form1.cs",
+              "RelativeDocumentMoniker": "Crtanje poligoni aud9\\Form1.cs",
+              "ToolTip": "C:\\Users\\MILA\\Desktop\\VP\\exercises second midterm\\Crtanje poligoni aud9\\Crtanje poligoni aud9\\Form1.cs [Design]",
+              "RelativeToolTip": "Crtanje poligoni aud9\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T14:20:01.891Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
