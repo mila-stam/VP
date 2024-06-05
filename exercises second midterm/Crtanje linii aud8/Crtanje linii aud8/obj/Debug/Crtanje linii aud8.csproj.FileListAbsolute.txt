@@ -1,0 +1,10 @@
+C:\Users\MILA\Desktop\VP\exercises second midterm\Crtanje linii aud8\Crtanje linii aud8\bin\Debug\Crtanje linii aud8.exe.config
+C:\Users\MILA\Desktop\VP\exercises second midterm\Crtanje linii aud8\Crtanje linii aud8\bin\Debug\Crtanje linii aud8.exe
+C:\Users\MILA\Desktop\VP\exercises second midterm\Crtanje linii aud8\Crtanje linii aud8\bin\Debug\Crtanje linii aud8.pdb
+C:\Users\MILA\Desktop\VP\exercises second midterm\Crtanje linii aud8\Crtanje linii aud8\obj\Debug\Crtanje linii aud8.csproj.AssemblyReference.cache
+C:\Users\MILA\Desktop\VP\exercises second midterm\Crtanje linii aud8\Crtanje linii aud8\obj\Debug\Crtanje_linii_aud8.Form1.resources
+C:\Users\MILA\Desktop\VP\exercises second midterm\Crtanje linii aud8\Crtanje linii aud8\obj\Debug\Crtanje_linii_aud8.Properties.Resources.resources
+C:\Users\MILA\Desktop\VP\exercises second midterm\Crtanje linii aud8\Crtanje linii aud8\obj\Debug\Crtanje linii aud8.csproj.GenerateResource.cache
+C:\Users\MILA\Desktop\VP\exercises second midterm\Crtanje linii aud8\Crtanje linii aud8\obj\Debug\Crtanje linii aud8.csproj.CoreCompileInputs.cache
+C:\Users\MILA\Desktop\VP\exercises second midterm\Crtanje linii aud8\Crtanje linii aud8\obj\Debug\Crtanje linii aud8.exe
+C:\Users\MILA\Desktop\VP\exercises second midterm\Crtanje linii aud8\Crtanje linii aud8\obj\Debug\Crtanje linii aud8.pdb
