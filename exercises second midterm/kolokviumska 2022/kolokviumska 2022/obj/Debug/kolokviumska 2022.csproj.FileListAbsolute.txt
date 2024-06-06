@@ -1,0 +1,10 @@
+C:\Users\MILA\Desktop\kolokviumska 2022\kolokviumska 2022\bin\Debug\kolokviumska 2022.exe.config
+C:\Users\MILA\Desktop\kolokviumska 2022\kolokviumska 2022\bin\Debug\kolokviumska 2022.exe
+C:\Users\MILA\Desktop\kolokviumska 2022\kolokviumska 2022\bin\Debug\kolokviumska 2022.pdb
+C:\Users\MILA\Desktop\kolokviumska 2022\kolokviumska 2022\obj\Debug\kolokviumska 2022.csproj.AssemblyReference.cache
+C:\Users\MILA\Desktop\kolokviumska 2022\kolokviumska 2022\obj\Debug\kolokviumska_2022.Form1.resources
+C:\Users\MILA\Desktop\kolokviumska 2022\kolokviumska 2022\obj\Debug\kolokviumska_2022.Properties.Resources.resources
+C:\Users\MILA\Desktop\kolokviumska 2022\kolokviumska 2022\obj\Debug\kolokviumska 2022.csproj.GenerateResource.cache
+C:\Users\MILA\Desktop\kolokviumska 2022\kolokviumska 2022\obj\Debug\kolokviumska 2022.csproj.CoreCompileInputs.cache
+C:\Users\MILA\Desktop\kolokviumska 2022\kolokviumska 2022\obj\Debug\kolokviumska 2022.exe
+C:\Users\MILA\Desktop\kolokviumska 2022\kolokviumska 2022\obj\Debug\kolokviumska 2022.pdb

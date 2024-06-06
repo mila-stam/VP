@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MILA\\Desktop\\kolokviumska 2022\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1DF36751-1A27-492B-8BF8-A829069C4559}|kolokviumska 2022\\kolokviumska 2022.csproj|c:\\users\\mila\\desktop\\kolokviumska 2022\\kolokviumska 2022\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DF36751-1A27-492B-8BF8-A829069C4559}|kolokviumska 2022\\kolokviumska 2022.csproj|solutionrelative:kolokviumska 2022\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DF36751-1A27-492B-8BF8-A829069C4559}|kolokviumska 2022\\kolokviumska 2022.csproj|c:\\users\\mila\\desktop\\kolokviumska 2022\\kolokviumska 2022\\ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DF36751-1A27-492B-8BF8-A829069C4559}|kolokviumska 2022\\kolokviumska 2022.csproj|solutionrelative:kolokviumska 2022\\ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DF36751-1A27-492B-8BF8-A829069C4559}|kolokviumska 2022\\kolokviumska 2022.csproj|c:\\users\\mila\\desktop\\kolokviumska 2022\\kolokviumska 2022\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1DF36751-1A27-492B-8BF8-A829069C4559}|kolokviumska 2022\\kolokviumska 2022.csproj|solutionrelative:kolokviumska 2022\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DF36751-1A27-492B-8BF8-A829069C4559}|kolokviumska 2022\\kolokviumska 2022.csproj|c:\\users\\mila\\desktop\\kolokviumska 2022\\kolokviumska 2022\\blackball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DF36751-1A27-492B-8BF8-A829069C4559}|kolokviumska 2022\\kolokviumska 2022.csproj|solutionrelative:kolokviumska 2022\\blackball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DF36751-1A27-492B-8BF8-A829069C4559}|kolokviumska 2022\\kolokviumska 2022.csproj|c:\\users\\mila\\desktop\\kolokviumska 2022\\kolokviumska 2022\\scene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DF36751-1A27-492B-8BF8-A829069C4559}|kolokviumska 2022\\kolokviumska 2022.csproj|solutionrelative:kolokviumska 2022\\scene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 237,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BlackBall.cs",
+              "DocumentMoniker": "C:\\Users\\MILA\\Desktop\\kolokviumska 2022\\kolokviumska 2022\\BlackBall.cs",
+              "RelativeDocumentMoniker": "kolokviumska 2022\\BlackBall.cs",
+              "ToolTip": "C:\\Users\\MILA\\Desktop\\kolokviumska 2022\\kolokviumska 2022\\BlackBall.cs",
+              "RelativeToolTip": "kolokviumska 2022\\BlackBall.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T13:37:28.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ball.cs",
+              "DocumentMoniker": "C:\\Users\\MILA\\Desktop\\kolokviumska 2022\\kolokviumska 2022\\Ball.cs",
+              "RelativeDocumentMoniker": "kolokviumska 2022\\Ball.cs",
+              "ToolTip": "C:\\Users\\MILA\\Desktop\\kolokviumska 2022\\kolokviumska 2022\\Ball.cs",
+              "RelativeToolTip": "kolokviumska 2022\\Ball.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAcwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T10:56:01.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\MILA\\Desktop\\kolokviumska 2022\\kolokviumska 2022\\Form1.cs",
+              "RelativeDocumentMoniker": "kolokviumska 2022\\Form1.cs",
+              "ToolTip": "C:\\Users\\MILA\\Desktop\\kolokviumska 2022\\kolokviumska 2022\\Form1.cs",
+              "RelativeToolTip": "kolokviumska 2022\\Form1.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAmwDAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T11:04:09.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Scene.cs",
+              "DocumentMoniker": "C:\\Users\\MILA\\Desktop\\kolokviumska 2022\\kolokviumska 2022\\Scene.cs",
+              "RelativeDocumentMoniker": "kolokviumska 2022\\Scene.cs",
+              "ToolTip": "C:\\Users\\MILA\\Desktop\\kolokviumska 2022\\kolokviumska 2022\\Scene.cs",
+              "RelativeToolTip": "kolokviumska 2022\\Scene.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowBwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T11:00:09.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MILA\\Desktop\\kolokviumska 2022\\kolokviumska 2022\\Form1.cs",
+              "RelativeDocumentMoniker": "kolokviumska 2022\\Form1.cs",
+              "ToolTip": "C:\\Users\\MILA\\Desktop\\kolokviumska 2022\\kolokviumska 2022\\Form1.cs [Design]",
+              "RelativeToolTip": "kolokviumska 2022\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T10:55:24.863Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
