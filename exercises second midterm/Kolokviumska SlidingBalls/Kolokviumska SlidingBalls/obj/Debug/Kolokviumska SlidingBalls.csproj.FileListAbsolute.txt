@@ -1,0 +1,10 @@
+C:\Users\MILA\Desktop\Kolokviumska SlidingBalls\Kolokviumska SlidingBalls\bin\Debug\Kolokviumska SlidingBalls.exe.config
+C:\Users\MILA\Desktop\Kolokviumska SlidingBalls\Kolokviumska SlidingBalls\bin\Debug\Kolokviumska SlidingBalls.exe
+C:\Users\MILA\Desktop\Kolokviumska SlidingBalls\Kolokviumska SlidingBalls\bin\Debug\Kolokviumska SlidingBalls.pdb
+C:\Users\MILA\Desktop\Kolokviumska SlidingBalls\Kolokviumska SlidingBalls\obj\Debug\Kolokviumska SlidingBalls.csproj.AssemblyReference.cache
+C:\Users\MILA\Desktop\Kolokviumska SlidingBalls\Kolokviumska SlidingBalls\obj\Debug\Kolokviumska_SlidingBalls.Form1.resources
+C:\Users\MILA\Desktop\Kolokviumska SlidingBalls\Kolokviumska SlidingBalls\obj\Debug\Kolokviumska_SlidingBalls.Properties.Resources.resources
+C:\Users\MILA\Desktop\Kolokviumska SlidingBalls\Kolokviumska SlidingBalls\obj\Debug\Kolokviumska SlidingBalls.csproj.GenerateResource.cache
+C:\Users\MILA\Desktop\Kolokviumska SlidingBalls\Kolokviumska SlidingBalls\obj\Debug\Kolokviumska SlidingBalls.csproj.CoreCompileInputs.cache
+C:\Users\MILA\Desktop\Kolokviumska SlidingBalls\Kolokviumska SlidingBalls\obj\Debug\Kolokviumska SlidingBalls.exe
+C:\Users\MILA\Desktop\Kolokviumska SlidingBalls\Kolokviumska SlidingBalls\obj\Debug\Kolokviumska SlidingBalls.pdb

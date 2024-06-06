@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MILA\\Desktop\\Kolokviumska SlidingBalls\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B0E076A1-02EB-41C2-A8FE-C48920E78063}|Kolokviumska SlidingBalls\\Kolokviumska SlidingBalls.csproj|c:\\users\\mila\\desktop\\kolokviumska slidingballs\\kolokviumska slidingballs\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0E076A1-02EB-41C2-A8FE-C48920E78063}|Kolokviumska SlidingBalls\\Kolokviumska SlidingBalls.csproj|solutionrelative:kolokviumska slidingballs\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0E076A1-02EB-41C2-A8FE-C48920E78063}|Kolokviumska SlidingBalls\\Kolokviumska SlidingBalls.csproj|C:\\Users\\MILA\\Desktop\\Kolokviumska SlidingBalls\\kolokviumska slidingballs\\ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0E076A1-02EB-41C2-A8FE-C48920E78063}|Kolokviumska SlidingBalls\\Kolokviumska SlidingBalls.csproj|solutionrelative:kolokviumska slidingballs\\ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0E076A1-02EB-41C2-A8FE-C48920E78063}|Kolokviumska SlidingBalls\\Kolokviumska SlidingBalls.csproj|C:\\Users\\MILA\\Desktop\\Kolokviumska SlidingBalls\\kolokviumska slidingballs\\scene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0E076A1-02EB-41C2-A8FE-C48920E78063}|Kolokviumska SlidingBalls\\Kolokviumska SlidingBalls.csproj|solutionrelative:kolokviumska slidingballs\\scene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0E076A1-02EB-41C2-A8FE-C48920E78063}|Kolokviumska SlidingBalls\\Kolokviumska SlidingBalls.csproj|C:\\Users\\MILA\\Desktop\\Kolokviumska SlidingBalls\\kolokviumska slidingballs\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B0E076A1-02EB-41C2-A8FE-C48920E78063}|Kolokviumska SlidingBalls\\Kolokviumska SlidingBalls.csproj|solutionrelative:kolokviumska slidingballs\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 237,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\MILA\\Desktop\\Kolokviumska SlidingBalls\\Kolokviumska SlidingBalls\\Form1.cs",
+              "RelativeDocumentMoniker": "Kolokviumska SlidingBalls\\Form1.cs",
+              "ToolTip": "C:\\Users\\MILA\\Desktop\\Kolokviumska SlidingBalls\\Kolokviumska SlidingBalls\\Form1.cs",
+              "RelativeToolTip": "Kolokviumska SlidingBalls\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T22:22:37.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Scene.cs",
+              "DocumentMoniker": "C:\\Users\\MILA\\Desktop\\Kolokviumska SlidingBalls\\Kolokviumska SlidingBalls\\Scene.cs",
+              "RelativeDocumentMoniker": "Kolokviumska SlidingBalls\\Scene.cs",
+              "ToolTip": "C:\\Users\\MILA\\Desktop\\Kolokviumska SlidingBalls\\Kolokviumska SlidingBalls\\Scene.cs",
+              "RelativeToolTip": "Kolokviumska SlidingBalls\\Scene.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T21:36:22.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ball.cs",
+              "DocumentMoniker": "C:\\Users\\MILA\\Desktop\\Kolokviumska SlidingBalls\\Kolokviumska SlidingBalls\\Ball.cs",
+              "RelativeDocumentMoniker": "Kolokviumska SlidingBalls\\Ball.cs",
+              "ToolTip": "C:\\Users\\MILA\\Desktop\\Kolokviumska SlidingBalls\\Kolokviumska SlidingBalls\\Ball.cs",
+              "RelativeToolTip": "Kolokviumska SlidingBalls\\Ball.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T21:16:36.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MILA\\Desktop\\Kolokviumska SlidingBalls\\Kolokviumska SlidingBalls\\Form1.cs",
+              "RelativeDocumentMoniker": "Kolokviumska SlidingBalls\\Form1.cs",
+              "ToolTip": "C:\\Users\\MILA\\Desktop\\Kolokviumska SlidingBalls\\Kolokviumska SlidingBalls\\Form1.cs [Design]",
+              "RelativeToolTip": "Kolokviumska SlidingBalls\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T21:16:15.857Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
